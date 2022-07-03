@@ -1,2 +1,19 @@
-# sport_health
-采用Vue+Springboot实现的简单的个人运动健康项目
+# vue-sport
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
